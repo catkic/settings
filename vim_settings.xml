@@ -3,16 +3,74 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/POJ/main.cpp" timestamp="1547428382343" />
+      <file name="$USER_HOME$/POJ/1002.cpp" timestamp="1547432271786">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/POJ/main.cpp" timestamp="1547430133472">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/POJ/CMakeLists.txt" timestamp="1547430397289">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/POJ/template.cpp" timestamp="1547430169573">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/POJ/1002" timestamp="1547431712534">
+        <mark key="[" line="12" column="8" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGludCBhID0gMCwgYiA9IDE7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>string</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNtYXRoPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvdXQgPDwgIkhlbGxvLCBXb3JsZCEiIDw8IGVuZGw7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>string</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-cmd>
+        <entry>set mouse=a</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
