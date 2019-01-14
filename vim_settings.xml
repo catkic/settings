@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/POJ/1002.cpp" timestamp="1547432323231">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
+      <file name="$USER_HOME$/POJ/1002.cpp" timestamp="1547435844865">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="30" column="76" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/POJ/main.cpp" timestamp="1547430133472">
         <mark key="[" line="1" column="0" />
@@ -34,22 +34,40 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBhID0gMCwgYiA9IDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNtYXRoPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBhLnNlY29uZCA9PSBiLnNlY29uZCA/IGEuZmlyc3QgPCBiLmZpcnN0IDogYS5zZWNvbmQgPiBiLnNlY29uZDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ym9vbCBjbXAoY29uc3QgcGFpcjxpbnQsIGludD4gJmEsIGNvbnN0IHBhaXI8aW50LCBpbnQ+ICZiKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvdXQgPDwgbiA8PCBlbmRsOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGludCBhID0gMCwgYiA9IDE7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNtYXRoPgo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvdXQgPDwgIkhlbGxvLCBXb3JsZCEiIDw8IGVuZGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
@@ -69,6 +87,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
