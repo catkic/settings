@@ -9,6 +9,12 @@
         <mark key="^" line="30" column="76" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/PAT/1151 LCA in a Binary Tree （30 分）.cpp" timestamp="1551003205758">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/POJ/main.cpp" timestamp="1547430133472">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -34,34 +40,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhLnNlY29uZCA9PSBiLnNlY29uZCA/IGEuZmlyc3QgPCBiLmZpcnN0IDogYS5zZWNvbmQgPiBiLnNlY29uZDsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ym9vbCBjbXAoY29uc3QgcGFpcjxpbnQsIGludD4gJmEsIGNvbnN0IHBhaXI8aW50LCBpbnQ+ICZiKSB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhLnNlY29uZCA9PSBiLnNlY29uZCA/IGEuZmlyc3QgPCBiLmZpcnN0IDogYS5zZWNvbmQgPiBiLnNlY29uZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgbiA8PCBlbmRsOwo=</text>
+        <text encoding="base64">Ym9vbCBjbXAoY29uc3QgcGFpcjxpbnQsIGludD4gJmEsIGNvbnN0IHBhaXI8aW50LCBpbnQ+ICZiKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBhID0gMCwgYiA9IDE7Cg==</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgbiA8PCBlbmRsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNtYXRoPgo=</text>
+        <text encoding="base64">ICAgIGludCBhID0gMCwgYiA9IDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgIkhlbGxvLCBXb3JsZCEiIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNtYXRoPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -75,11 +81,14 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>set mouse=a</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
