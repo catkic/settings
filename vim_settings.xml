@@ -27,11 +27,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/PAT/1354.cpp" timestamp="1552014249107">
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="22" />
+      <file name="$USER_HOME$/PAT/1354.cpp" timestamp="1552016665187">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/POJ/1002" timestamp="1547431712534">
         <mark key="[" line="12" column="8" />
@@ -76,10 +76,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoMTA2MDMgIjEwNjAzLmNwcCIgIjEzNTQuZGF0YSIpCg==</text>
