@@ -27,10 +27,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/PAT/1354.cpp" timestamp="1552007072966">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/PAT/1354.cpp" timestamp="1552008492966">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/POJ/1002" timestamp="1547431712534">
         <mark key="[" line="12" column="8" />
@@ -74,11 +75,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgbGluZSA8PCBlbmRsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoMTA2MDMgIjEwNjAzLmNwcCIgIjEzNTQuZGF0YSIpCg==</text>
@@ -123,6 +124,7 @@
       <history-cmd>
         <entry>set mouse=a</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
