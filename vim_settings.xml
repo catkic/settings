@@ -66,11 +66,11 @@
       <file name="$USER_HOME$/PAT/template" timestamp="1551945277231">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PAT/8.cpp" timestamp="1552285395958">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
+      <file name="$USER_HOME$/PAT/8.cpp" timestamp="1552287723479">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/PAT/1601.cpp" timestamp="1551944681015">
         <mark key="[" line="3" column="0" />
@@ -82,10 +82,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>the position of 0</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>the position of 0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoMTA2MDMgIjEwNjAzLmNwcCIgIjEzNTQuZGF0YSIpCg==</text>
