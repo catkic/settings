@@ -21,8 +21,8 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/PAT/CMakeLists.txt" timestamp="1551944752963">
-        <mark key="[" line="9" column="15" />
+      <file name="$USER_HOME$/PAT/CMakeLists.txt" timestamp="1552350967835">
+        <mark key="[" line="10" column="15" />
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
@@ -38,6 +38,12 @@
       </file>
       <file name="$USER_HOME$/PAT/1354.data" timestamp="1551943917079">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PAT/8.data" timestamp="1552351015926">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/POJ/1002.cpp" timestamp="1547435844865">
         <mark key="[" line="2" column="0" />
@@ -66,11 +72,11 @@
       <file name="$USER_HOME$/PAT/template" timestamp="1551945277231">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PAT/8.cpp" timestamp="1552296203480">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-        <mark key="^" line="21" column="32" />
+      <file name="$USER_HOME$/PAT/8.cpp" timestamp="1552351503860">
+        <mark key="[" line="54" column="51" />
+        <mark key="]" line="54" column="50" />
+        <mark key="." line="54" column="50" />
+        <mark key="^" line="54" column="50" />
       </file>
       <file name="$USER_HOME$/PAT/1601.cpp" timestamp="1551944681015">
         <mark key="[" line="3" column="0" />
@@ -81,8 +87,8 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>the position of 0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvdXQgPDwgYW5zIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>the position of 0</text>
@@ -91,31 +97,31 @@
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoMTA2MDMgIjEwNjAzLmNwcCIgIjEzNTQuZGF0YSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgYW5zIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgOTsgaSsrKSBwcmludGYoIiVkIiwgZ29hbFtpXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgaSsrKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjYW5mKCIlZCIsICZuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGludCBuID0gNTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgKDEgPDwgbik7IGkrKykKICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG47IGorKykKICAgICAgICAgICAgaWYgKGkgJiAoMSA8PCBqKSkKICAgICAgICAgICAgICAgIHByaW50ZigiJWQgJWQgJWQgJXggJXhcbiIsIGksIGosICgxIDw8IGopLCBpLCBqKTsKICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgcHJpbnRmKCLkuI3ooYznmoQgID4+PiAgJWQgJWQgJWQgJXggJXhcbiIsIGksIGosICgxIDw8IGopLCBpLCBqKTsKCiAgICByZXR1cm4gMDs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgaSsrKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgcjsgaW50IHM7Cg==</text>
+        <text encoding="base64">ICAgIHNjYW5mKCIlZCIsICZuKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgbGluZSA8PCBlbmRsOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGludCBuID0gNTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgKDEgPDwgbik7IGkrKykKICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG47IGorKykKICAgICAgICAgICAgaWYgKGkgJiAoMSA8PCBqKSkKICAgICAgICAgICAgICAgIHByaW50ZigiJWQgJWQgJWQgJXggJXhcbiIsIGksIGosICgxIDw8IGopLCBpLCBqKTsKICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgcHJpbnRmKCLkuI3ooYznmoQgID4+PiAgJWQgJWQgJWQgJXggJXhcbiIsIGksIGosICgxIDw8IGopLCBpLCBqKTsKCiAgICByZXR1cm4gMDs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
