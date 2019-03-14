@@ -82,20 +82,20 @@
       <file name="$USER_HOME$/PAT/1601.cpp" timestamp="1551944681015">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PAT/10603.cpp" timestamp="1552526887419">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="26" column="14" />
-        <mark key="^" line="26" column="14" />
-        <mark key="." line="26" column="14" />
+      <file name="$USER_HOME$/PAT/10603.cpp" timestamp="1552562449300">
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="20" />
+        <mark key="^" line="63" column="20" />
+        <mark key="." line="63" column="20" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1354</text>
       </register>
       <register name="-" type="4">
-        <text>iostream</text>
+        <text>1354</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoMTA2MDMgIjEwNjAzLmNwcCIgIjEzNTQuZGF0YSIpCg==</text>
@@ -139,8 +139,8 @@
       <history-search />
       <history-cmd>
         <entry>set mouse=a</entry>
-        <entry>wq</entry>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
