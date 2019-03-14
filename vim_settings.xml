@@ -82,47 +82,50 @@
       <file name="$USER_HOME$/PAT/1601.cpp" timestamp="1551944681015">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PAT/10603.cpp" timestamp="1551945241047">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PAT/10603.cpp" timestamp="1552523214645">
+        <mark key="[" line="12" column="58" />
+        <mark key="]" line="12" column="57" />
+        <mark key="^" line="12" column="57" />
+        <mark key="." line="12" column="57" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgYW5zIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>the position of 0</text>
+        <text>iostream</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoMTA2MDMgIjEwNjAzLmNwcCIgIjEzNTQuZGF0YSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgYW5zIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgOTsgaSsrKSBwcmludGYoIiVkIiwgZ29hbFtpXSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgbGluZSA8PCBlbmRsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNpbiA+PiBsaW5lOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBsaW5lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgYW5zIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjYW5mKCIlZCIsICZuKTsK</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgOTsgaSsrKSBwcmludGYoIiVkIiwgZ29hbFtpXSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGludCBuID0gNTsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgKDEgPDwgbik7IGkrKykKICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG47IGorKykKICAgICAgICAgICAgaWYgKGkgJiAoMSA8PCBqKSkKICAgICAgICAgICAgICAgIHByaW50ZigiJWQgJWQgJWQgJXggJXhcbiIsIGksIGosICgxIDw8IGopLCBpLCBqKTsKICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgcHJpbnRmKCLkuI3ooYznmoQgID4+PiAgJWQgJWQgJWQgJXggJXhcbiIsIGksIGosICgxIDw8IGopLCBpLCBqKTsKCiAgICByZXR1cm4gMDs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
