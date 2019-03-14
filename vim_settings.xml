@@ -82,20 +82,20 @@
       <file name="$USER_HOME$/PAT/1601.cpp" timestamp="1551944681015">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PAT/10603.cpp" timestamp="1552562449300">
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="63" column="20" />
-        <mark key="^" line="63" column="20" />
-        <mark key="." line="63" column="20" />
+      <file name="$USER_HOME$/PAT/10603.cpp" timestamp="1552563099264">
+        <mark key="[" line="63" column="13" />
+        <mark key="]" line="63" column="13" />
+        <mark key="^" line="69" column="43" />
+        <mark key="." line="63" column="13" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>1354</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>1354</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoMTA2MDMgIjEwNjAzLmNwcCIgIjEzNTQuZGF0YSIpCg==</text>
