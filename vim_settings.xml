@@ -79,8 +79,10 @@
       <file name="/LLDB" timestamp="1552388855951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PAT/1601.cpp" timestamp="1551944681015">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/PAT/1601.cpp" timestamp="1552609229744">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PAT/10603.cpp" timestamp="1552608123673">
         <mark key="[" line="63" column="13" />
@@ -91,8 +93,8 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBDYXRraWMgb24gMjAxOS0wMy0wNy4KLy8K</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -101,31 +103,31 @@
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoMTA2MDMgIjEwNjAzLmNwcCIgIjEzNTQuZGF0YSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBDYXRraWMgb24gMjAxOS0wMy0wNy4KLy8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgbGluZSA8PCBlbmRsOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgbGluZSA8PCBlbmRsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNpbiA+PiBsaW5lOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNpbiA+PiBsaW5lOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0cmluZyBsaW5lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgYW5zIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIHN0cmluZyBsaW5lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgOTsgaSsrKSBwcmludGYoIiVkIiwgZ29hbFtpXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgbGluZSA8PCBlbmRsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -158,6 +160,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
