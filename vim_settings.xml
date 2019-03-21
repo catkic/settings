@@ -45,6 +45,12 @@
       <file name="$USER_HOME$/PAT/1354.data" timestamp="1551943917079">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PAT/11212-Editing a Book.cpp" timestamp="1553163088283">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/PAT/8.data" timestamp="1552351015926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
@@ -114,7 +120,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBDYXRraWMgb24gMjAxOS0wMy0yMS4KLy8K</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -123,46 +129,31 @@
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoOCAiOC5jcHAiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBDYXRraWMgb24gMjAxOS0wMy0yMS4KLy8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChhYSAlIGJiID09IDApIHJldHVybiBmYWxzZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBDYXRraWMgb24gMjAxOS0wMy0yMC4KLy8K</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgcHJpbnRmKCJjY2NcbiIpOw==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIChhYSAlIGJiID09IDApIHJldHVybiBmYWxzZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBDYXRraWMgb24gMjAxOS0wMy0yMC4KLy8K</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgcHJpbnRmKCJjY2NcbiIpOw==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgbWF6ZVtpXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkICVkICVkXG4iLCB3LCBoLCBuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgbWF6ZVtpXSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>################
-### ## # ##
-## # ## # c#
-# ## ########b#
-# ## # # # #
-# # ## # # ##
-## a# # # # #
-### ## #### ## #
-## # # # #
-# ##### # ## ##
-#### #B# # #
-## C# # ###
-# # # ####### #
-# ###### A## #
-# # ##
-################</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkICVkICVkXG4iLCB3LCBoLCBuKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
