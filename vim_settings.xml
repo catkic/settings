@@ -21,10 +21,10 @@
       <file name="$USER_HOME$/PAT/1354.data" timestamp="1551943917079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PAT/12325.cpp" timestamp="1553418833319">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/PAT/12325.cpp" timestamp="1553419450427">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
         <mark key="^" line="24" column="44" />
       </file>
       <file name="$USER_HOME$/PAT/11212-Editing a Book.cpp" timestamp="1553413565891">
@@ -131,11 +131,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG1heDEgPSBuIC8gczE7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i * v1 + j * v2</text>
       </register>
       <register name="-" type="4">
-        <text>max1</text>
+        <text>i * v1 + j * v2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoOCAiOC5jcHAiKQo=</text>
