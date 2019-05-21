@@ -27,11 +27,11 @@
         <mark key="." line="25" column="115" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/PAT/1343 - The Rotation Game.cpp" timestamp="1558410351196">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="10" column="49" />
-        <mark key="^" line="10" column="49" />
-        <mark key="." line="10" column="49" />
+      <file name="$USER_HOME$/PAT/1343 - The Rotation Game.cpp" timestamp="1558419812791">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/PAT/11212-Editing a Book.cpp" timestamp="1553413565891">
         <mark key="[" line="49" column="21" />
@@ -142,47 +142,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CjA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoOCAiOC5jcHAiKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CjA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgImZ1Y2sgeW91ICIgPDwgZW5kbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdiA9IHYgJiAoMSA8PCBpKSAmJiBjdXJbaV07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUoMTIzMjUgIjEyMzI1LmNwcCIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG1heDEgPSBuIC8gczE7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdHJpbmc+Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>#add_executable(1143 &quot;1143 Lowest Common Ancestor （30 分）.cpp&quot;)
-#add_executable(1151 &quot;1151 LCA in a Binary Tree （30 分）.cpp&quot;)
-add_executable(1354 &quot;1354.cpp&quot; &quot;1354.data&quot;)
-add_executable(10603 &quot;10603.cpp&quot; &quot;1354.data&quot;)
-add_executable(1601 &quot;1601.cpp&quot; &quot;1354.data&quot;)
-add_executable(8 &quot;8.cpp&quot;)
-add_executable(test &quot;test.cpp&quot;)</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBxLnB1c2goc3RhdHVzWzBdKTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgcXVldWU8aW50PiBwOw==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsK</text>
+      </register>
       <register name="8" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaiA9IDA7IGogPD0gbWF4MjsgaisrKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">CjA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBDYXRraWMgb24gMjAxOS0wMy0yNC4KLy8K</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgImZ1Y2sgeW91ICIgPDwgZW5kbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
