@@ -27,11 +27,11 @@
         <mark key="." line="25" column="115" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/PAT/1343 - The Rotation Game.cpp" timestamp="1558419812791">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="15" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/PAT/1343 - The Rotation Game.cpp" timestamp="1558421932918">
+        <mark key="[" line="42" column="37" />
+        <mark key="]" line="43" column="20" />
+        <mark key="^" line="43" column="20" />
+        <mark key="." line="43" column="20" />
       </file>
       <file name="$USER_HOME$/PAT/11212-Editing a Book.cpp" timestamp="1553413565891">
         <mark key="[" line="49" column="21" />
@@ -143,40 +143,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCogdCA9IG1vdmVfbGluZShpLCBjdXIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkX2V4ZWN1dGFibGUoOCAiOC5jcHAiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCogdCA9IG1vdmVfbGluZShpLCBjdXIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdiA9IHYgJiAoMSA8PCBpKSAmJiBjdXJbaV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBxLnB1c2goc3RhdHVzWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdiA9IHYgJiAoMSA8PCBpKSAmJiBjdXJbaV07Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgcXVldWU8aW50PiBwOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CjA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBxLnB1c2goc3RhdHVzWzBdKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgImZ1Y2sgeW91ICIgPDwgZW5kbDsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgcXVldWU8aW50PiBwOw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
